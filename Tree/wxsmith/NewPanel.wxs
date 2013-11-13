@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<wxsmith>
-	<object class="wxPanel" name="NewPanel">
-		<size>20,26</size>
-	</object>
-</wxsmith>
